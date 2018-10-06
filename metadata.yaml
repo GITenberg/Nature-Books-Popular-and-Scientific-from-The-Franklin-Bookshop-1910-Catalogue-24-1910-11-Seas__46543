@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Nature Books Popular and Scientific from The Franklin Bookshop, 1910
 
   Catalogue 24, 1910-11 Season'
